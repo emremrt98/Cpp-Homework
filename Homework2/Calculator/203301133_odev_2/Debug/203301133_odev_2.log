@@ -1,0 +1,2 @@
+﻿203301133_odev_2_soru_2.obj : error LNK2005: _main already defined in 203301133_odev_2.obj
+C:\Users\emrem\OneDrive\Masaüstü\Programlama Dili 1\C++\203301133_odev_2\Debug\203301133_odev_2.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,4 @@
+﻿  203301133_odev_2_soru_3.cpp
+C:\Users\emrem\OneDrive\Masaüstü\Programlama Dili 1\C++\203301133_odev_2_soru_3\203301133_odev_2_soru_3\203301133_odev_2_soru_3.cpp(14,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\emrem\OneDrive\Masaüstü\Programlama Dili 1\C++\203301133_odev_2_soru_3\203301133_odev_2_soru_3\203301133_odev_2_soru_3.cpp(10,7): warning C4101: 'kalan': unreferenced local variable
+  203301133_odev_2_soru_3.vcxproj -> C:\Users\emrem\OneDrive\Masaüstü\Programlama Dili 1\C++\203301133_odev_2_soru_3\Debug\203301133_odev_2_soru_3.exe
